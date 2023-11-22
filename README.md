@@ -6,7 +6,6 @@
 
 ## Explore
 
-- [] 3%
 - [] 3DCubeTransformations
 - [] Aggressive Cows
 - [] AggressiveCows
