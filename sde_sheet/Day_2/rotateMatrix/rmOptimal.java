@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.rotateMatrix;
+
 
 public class rmOptimal {
   static void rotate(int[][] matrix) {

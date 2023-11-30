@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.countInversions;
+
 
 public class ciBruteForce {
   public static int numberOfInversions(int[] a, int n) {

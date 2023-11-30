@@ -1,5 +1,3 @@
-package sde_sheet.Day_1.pascalTriangle;
-
 import java.util.ArrayList;
 import java.util.List;
 

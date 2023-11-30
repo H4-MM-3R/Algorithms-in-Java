@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.mergeSortedArrays_noXtraSpace;
+
 
 public class msiOptimal {
   public static void swapIfGreater(long[] arr1, long[] arr2, int ind1, int ind2) {

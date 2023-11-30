@@ -1,5 +1,3 @@
-package sde_sheet.Day_4.twoSum;
-
 import java.util.HashMap;
 
 public class tsBetter {

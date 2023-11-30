@@ -1,4 +1,4 @@
-package sde_sheet.Day_3.xToPowerN;
+
 
 public class xpnBinaryExponentiation {
   static double Pow(double x, int n) {

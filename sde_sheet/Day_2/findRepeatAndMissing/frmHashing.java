@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.findRepeatAndMissing;
+
 
 public class frmHashing {
   public static int[] findMissingRepeatingNumbers(int[] a) {

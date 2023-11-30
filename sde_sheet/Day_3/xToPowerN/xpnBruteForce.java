@@ -1,4 +1,4 @@
-package sde_sheet.Day_3.xToPowerN;
+
 
 public class xpnBruteForce {
   static double Pow(double x, double n) {

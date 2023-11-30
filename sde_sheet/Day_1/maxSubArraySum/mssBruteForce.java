@@ -1,11 +1,12 @@
-package sde_sheet.Day_1.maxSubArraySum;
-
 public class mssBruteForce {
-  public static int maxSubarraySum(int[] arr, int n) {
-    int maxi = Integer.MIN_VALUE; // maximum sum
+  public static int maxSubarraySum(int[] arr) {
+    int len = arr.length;
 
-    for (int i = 0; i < n; i++) {
-      for (int j = i; j < n; j++) {
+    int maxSum = Integer.MIN_VALUE;
+
+    for (int i = 0; i < len; i++) {
+      for (int j = i; j < len; j++) {
+
         // subarray = arr[i.....j]
         int sum = 0;
 
@@ -14,17 +15,17 @@ public class mssBruteForce {
           sum += arr[k];
         }
 
-        maxi = Math.max(maxi, sum);
+        // check if sum is greater that maxSum
+        maxSum = Math.max(maxSum, sum);
       }
     }
 
-    return maxi;
+    return maxSum;
   }
 
   public static void main(String args[]) {
-    int[] arr = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
-    int n = arr.length;
-    int maxSum = maxSubarraySum(arr, n);
+    int[] arr = {-2, 4, 5, -6, -9, 10, -8, 11};
+    int maxSum = maxSubarraySum(arr);
     System.out.println("The maximum subarray sum is: " + maxSum);
   }
 }

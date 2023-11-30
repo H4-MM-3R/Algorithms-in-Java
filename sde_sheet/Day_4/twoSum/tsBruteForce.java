@@ -1,5 +1,3 @@
-package sde_sheet.Day_4.twoSum;
-
 public class tsBruteForce {
   public static boolean twoSum(int n, int[] arr, int target) {
     for (int i = 0; i < n; i++) {

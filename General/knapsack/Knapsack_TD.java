@@ -1,4 +1,4 @@
-package General.knapsack;
+
 
 public class Knapsack_TD {
   public static int knapSack_top_down(int limit, int weights[], int values[], int n) {

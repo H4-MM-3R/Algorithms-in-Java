@@ -1,5 +1,3 @@
-package sde_sheet.Day_3.gridUniquePaths;
-
 import java.util.Arrays;
 
 public class gupDP {

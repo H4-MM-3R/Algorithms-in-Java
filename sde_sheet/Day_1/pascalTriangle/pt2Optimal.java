@@ -1,5 +1,3 @@
-package sde_sheet.Day_1.pascalTriangle;
-
 public class pt2Optimal {
   static void pascalTriangle(int n) {
     long ans = 1;

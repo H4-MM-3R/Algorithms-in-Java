@@ -1,5 +1,3 @@
-package sde_sheet.Day_4.longestConsecutiveSequence;
-
 import java.util.Arrays;
 
 public class lcsSorting {

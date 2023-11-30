@@ -1,5 +1,3 @@
-package sde_sheet.Day_1.stockBuyAndSell;
-
 public class sbsBruteForce {
   static int maxProfit(int[] arr) {
     int maxProfit = 0;

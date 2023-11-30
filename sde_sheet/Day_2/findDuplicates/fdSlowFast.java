@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.findDuplicates;
+
 
 public class fdSlowFast {
   public static int findDuplicate(int[] nums) {

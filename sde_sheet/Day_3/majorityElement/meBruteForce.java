@@ -1,4 +1,4 @@
-package sde_sheet.Day_3.majorityElement;
+
 
 public class meBruteForce {
     public static int majorityElement(int[] arr) {

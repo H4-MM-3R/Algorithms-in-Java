@@ -1,4 +1,4 @@
-package sde_sheet.Day_3.countReversePairs;
+
 
 public class crpBruteForce {
   public static int countPairs(int[] a, int n) {

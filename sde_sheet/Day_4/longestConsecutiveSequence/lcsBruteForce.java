@@ -1,5 +1,3 @@
-package sde_sheet.Day_4.longestConsecutiveSequence;
-
 public class lcsBruteForce {
   public static boolean linearSearch(int[] a, int num) {
     int n = a.length; // size of array

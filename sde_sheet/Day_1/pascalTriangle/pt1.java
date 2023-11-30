@@ -1,5 +1,3 @@
-package sde_sheet.Day_1.pascalTriangle;
-
 public class pt1 {
   static long nCr(int n, int r) {
     long ans = 1;

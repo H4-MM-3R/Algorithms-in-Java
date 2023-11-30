@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.findRepeatAndMissing;
+
 
 public class frmOptimalMath {
   public static int[] findMissingRepeatingNumbers(int[] a) {

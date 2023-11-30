@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.findDuplicates;
+
 
 public class fdHashing {
     static int findDuplicate(int[] arr) {

@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.findRepeatAndMissing;
+
 
 public class frmOptimalXOR {
   public static int[] findMissingRepeatingNumbers(int[] arr) {

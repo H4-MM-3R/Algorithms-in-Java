@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.mergeOverlappingSubIntervals;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,5 +1,3 @@
-package General.knapsack;
-
 public class Knapsack_0_1 {
   public static int knapSack(int limit, int weights[], int values[], int n) {
     if (n == 0 || limit == 0) {

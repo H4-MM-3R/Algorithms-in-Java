@@ -1,4 +1,4 @@
-package sde_sheet.Day_3.majorityElement;
+
 
 /* ------------------------
  * Moore's Voting Algorithm

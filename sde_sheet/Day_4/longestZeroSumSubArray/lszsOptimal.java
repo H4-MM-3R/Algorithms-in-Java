@@ -1,5 +1,3 @@
-package sde_sheet.Day_4.longestZeroSumSubArray;
-
 import java.util.HashMap;
 
 public class lszsOptimal {

@@ -1,5 +1,3 @@
-package sde_sheet.Day_4.longestZeroSumSubArray;
-
 public class lszsBruteForce {
   static int solve(int[] a) {
     int max = 0;

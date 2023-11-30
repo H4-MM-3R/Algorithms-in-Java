@@ -1,4 +1,4 @@
-package sde_sheet.Day_4.numberOfSubarraysWithXORK;
+
 
 public class nsxorBruteForce {
   public static int subarraysWithXorK(int[] a, int k) {

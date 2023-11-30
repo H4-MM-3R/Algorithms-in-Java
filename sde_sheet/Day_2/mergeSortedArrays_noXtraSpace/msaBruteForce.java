@@ -1,4 +1,4 @@
-package sde_sheet.Day_2.mergeSortedArrays_noXtraSpace;
+
 
 public class msaBruteForce {
   public static void merge(long[] arr1, long[] arr2, int n, int m) {
